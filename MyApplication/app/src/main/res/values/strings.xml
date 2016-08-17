@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MapsApplication</string>
     <string name="title_activity_maps">Map</string>
+
+
+    <string name="action_my_location">My Location</string>
+    <string name="title_activity_maps2">Mapp</string>
 </resources>
